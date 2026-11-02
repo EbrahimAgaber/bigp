@@ -1,0 +1,6 @@
+{
+  "name": "Visual Process Control Studio | Interactive Simulink & Plant Dynamics Studio",
+  "description": "An intuitive visual process control and simulation studio for plant technicians and engineers. Explore dynamic systems across 3 lenses: Physical Plant P&ID, Visual Math Decoder, and Simulink Block Diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
